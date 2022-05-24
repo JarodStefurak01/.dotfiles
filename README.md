@@ -6,3 +6,5 @@ This is my custom .vimrc configuration for Vim.
 This is my custom .bashrc configuration for Bash.
 
 TODO: Will update this in the future.
+
+FIXME: Bug check.
